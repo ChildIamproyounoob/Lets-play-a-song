@@ -1,0 +1,20 @@
+body{
+    background-image: url(./139229-full-size-cool-powerpoint-backgrounds-1926x1206.jpg);
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+footer{
+    text-align: center;
+    color: aquamarine;
+    font-size: 20px;
+}
+
+div{
+    text-align: center;
+}
